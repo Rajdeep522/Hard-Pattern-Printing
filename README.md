@@ -1,2 +1,2 @@
-# Hard-Pattern-Printin
+# Hard-Pattern-Printing
 For logic building purpose
