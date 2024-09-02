@@ -1,2 +1,2 @@
 # Hard-Pattern-Printing
-For logic building purpose
+For logic building using different questions
