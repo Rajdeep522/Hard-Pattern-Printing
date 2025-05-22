@@ -20,6 +20,7 @@ int main(){
  return 0;
 }
 
+
 // for n=5
 //
 //        1
